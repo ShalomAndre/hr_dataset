@@ -1,0 +1,701 @@
+EmployeeID,FirstName,LastName,Department,JobTitle,HireDate,Salary,ManagerID,Location,PerformanceRating
+1001,Jennifer,Watson,Support,Customer Success Manager,2023-02-16,109166.07,1190,Boston,3
+1002,Gwendolyn,Williams,HR,Recruiter,2022-06-22,55353.41,1634,Chicago,3
+1003,Cindy,Lewis,HR,HR Specialist,2021-06-05,145861.32,1500,San Francisco,1
+1004,Brett,Patterson,Finance,Financial Analyst,2021-10-07,105220.09,1300,Boston,2
+1005,John,James,Sales,Sales Executive,2015-09-07,147587.3,1020,Los Angeles,2
+1006,Robert,Butler,Operations,Logistics Coordinator,2021-07-24,100002.86,1681,Houston,1
+1007,Jose,Green,Sales,Sales Executive,2022-02-22,116013.76,1161,Chicago,4
+1008,Kendra,Brown,Finance,Financial Analyst,2024-05-19,60240.63,1398,Los Angeles,5
+1009,Adam,Castro,Finance,Financial Analyst,2018-03-31,105688.48,1079,Los Angeles,2
+1010,Madeline,Riggs,Operations,Logistics Coordinator,2019-10-28,87438.71,1127,Chicago,5
+1011,Tammy,Morton,Support,Support Engineer,2017-09-29,143985.57,1018,New York,3
+1012,James,Gonzales,Sales,Sales Executive,2024-07-03,82399.22,1394,Houston,4
+1013,Robert,Grant,Engineering,DevOps Engineer,2019-12-24,141089.28,1265,Houston,2
+1014,Juan,Yang,Marketing,Marketing Manager,2018-10-07,145117.02,1038,Houston,2
+1015,John,Wilson,Sales,Sales Executive,2016-02-29,118877.8,1599,Houston,4
+1016,Richard,Sharp,Marketing,Marketing Manager,2015-10-13,148107.11,1270,New York,2
+1017,Nancy,Martinez,Finance,Financial Analyst,2021-08-30,95632.26,1110,San Francisco,1
+1018,Rebecca,Shields,HR,Recruiter,2021-07-24,119327.63,1245,Seattle,3
+1019,Karen,Dennis,Operations,Operations Manager,2016-08-18,121188.99,1397,Los Angeles,3
+1020,Erika,Richards,Finance,Finance Manager,2021-07-02,76252.12,1058,San Francisco,1
+1021,Maurice,Collins,Sales,Account Manager,2019-12-10,84793.33,1021,San Francisco,5
+1022,Christopher,Wong,Finance,Financial Analyst,2021-08-16,90565.33,1315,Houston,5
+1023,Rebecca,Garcia,Marketing,Marketing Manager,2016-07-29,121538.69,1700,New York,4
+1024,Robert,Church,Operations,Logistics Coordinator,2021-06-28,83472.55,1664,New York,4
+1025,Ryan,Murillo,Engineering,QA Engineer,2021-12-09,74248.96,1043,San Francisco,2
+1026,Michelle,Ryan,Support,Customer Success Manager,2017-09-19,58907.3,1109,Chicago,3
+1027,Maurice,Newman,Operations,Operations Manager,2022-02-28,79112.85,1466,Los Angeles,1
+1028,Megan,Maxwell,Operations,Operations Manager,2019-03-26,121490.86,1341,Chicago,4
+1029,Cynthia,Mccarthy,Operations,Logistics Coordinator,2020-04-19,93585.34,1073,San Francisco,4
+1030,Billy,Shaw,Support,Customer Success Manager,2020-03-29,63247.35,1683,Chicago,4
+1031,George,Lopez,Finance,Accountant,2023-09-28,103496.39,1301,Seattle,4
+1032,Justin,Mckee,Operations,Logistics Coordinator,2018-06-25,65988.42,1160,New York,4
+1033,Dana,Morgan,Operations,Operations Manager,2019-09-11,101894.01,1633,San Francisco,3
+1034,Kayla,Sutton,Finance,Finance Manager,2018-02-09,147093.93,1598,Chicago,5
+1035,Angela,Guerrero,HR,Recruiter,2023-02-02,76032.44,1592,Seattle,2
+1036,Jessica,Ortiz,HR,HR Specialist,2016-03-30,108050.35,1116,Houston,4
+1037,Michaela,Jacobs,Engineering,QA Engineer,2020-06-28,125172.14,1430,Chicago,3
+1038,Paul,George,Sales,Account Manager,2016-12-07,70681.21,1169,Los Angeles,3
+1039,Richard,Atkins,HR,Recruiter,2018-12-31,94106.16,1147,Chicago,2
+1040,Barbara,Meza,Engineering,Data Engineer,2018-10-11,82580.67,1090,San Francisco,4
+1041,Sonia,Jordan,Marketing,SEO Specialist,2015-10-15,140226.75,1505,San Francisco,4
+1042,Jeanette,Gonzalez,HR,Recruiter,2018-03-10,107180.57,1412,Houston,3
+1043,Shawn,Williams,HR,Recruiter,2017-01-01,67697.0,1502,San Francisco,3
+1044,Michael,Wallace,HR,HR Specialist,2023-11-01,52387.73,1543,Chicago,3
+1045,James,Garcia,Finance,Accountant,2022-11-18,110069.04,1002,San Francisco,1
+1046,Dale,Lee,Operations,Logistics Coordinator,2024-11-23,90484.78,1093,Houston,2
+1047,Matthew,Garcia,Sales,Sales Executive,2020-05-30,96431.65,1048,Houston,2
+1048,Alexa,Martin,Marketing,Marketing Manager,2016-02-13,77282.82,1034,Boston,2
+1049,Todd,Rice,Finance,Finance Manager,2017-02-24,134204.79,1269,New York,3
+1050,Michael,Adams,Support,Customer Success Manager,2016-08-16,111769.52,1296,Houston,1
+1051,Angela,Barnett,Marketing,SEO Specialist,2024-02-08,92436.65,1050,Chicago,2
+1052,Kathleen,Barajas,Finance,Financial Analyst,2024-03-28,66362.24,1153,New York,1
+1053,Danny,Lopez,Engineering,Data Engineer,2020-04-27,65493.93,1433,New York,5
+1054,Bryan,Williams,Operations,Logistics Coordinator,2015-02-21,146320.82,1576,San Francisco,4
+1055,John,Caldwell,Support,Support Engineer,2023-10-14,83270.46,1019,Los Angeles,5
+1056,Stephanie,Bailey,Support,Customer Success Manager,2023-08-29,53579.6,1453,Los Angeles,1
+1057,Kayla,Roth,Finance,Finance Manager,2021-10-27,120782.69,1086,San Francisco,2
+1058,Sandra,Russell,Finance,Accountant,2022-05-05,69337.22,1696,Boston,3
+1059,Kevin,Conway,Sales,Account Manager,2018-11-23,78310.23,1009,Los Angeles,1
+1060,Martin,Lewis,Support,Customer Success Manager,2017-11-23,92928.93,1234,Seattle,4
+1061,Curtis,Espinoza,Sales,Sales Executive,2016-09-21,121631.29,1540,Houston,2
+1062,Elizabeth,Kane,HR,HR Specialist,2024-10-10,143035.85,1265,Seattle,2
+1063,David,Contreras,Marketing,Content Specialist,2023-05-15,68714.93,1521,Houston,5
+1064,Lindsey,Rowe,Engineering,Software Engineer,2023-04-04,89975.27,1327,Seattle,1
+1065,Jonathan,Bailey,Support,Customer Success Manager,2017-07-22,71865.14,1169,Los Angeles,5
+1066,Patrick,Henry,Operations,Operations Manager,2020-07-19,100445.53,1340,San Francisco,5
+1067,Sonia,Bryant,HR,HR Specialist,2018-09-27,64252.67,1193,New York,4
+1068,Maria,Rhodes,HR,Recruiter,2020-02-18,139471.96,1368,Los Angeles,2
+1069,Jessica,Wheeler,Support,Customer Success Manager,2021-11-19,105543.14,1687,Chicago,1
+1070,Steve,Harris,HR,HR Specialist,2020-04-04,86239.9,1700,Chicago,5
+1071,Hannah,Payne,Sales,Account Manager,2019-02-28,65672.24,1512,Houston,2
+1072,Jennifer,Evans,Support,Customer Success Manager,2019-06-24,100988.6,1609,Chicago,2
+1073,Keith,Smith,Support,Support Engineer,2015-12-05,81888.48,1411,Boston,5
+1074,David,Huerta,Operations,Logistics Coordinator,2018-07-09,141278.62,1387,Seattle,5
+1075,Alexander,Wilson,Finance,Accountant,2018-07-31,144303.44,1575,Seattle,4
+1076,David,Davis,Finance,Accountant,2022-03-22,106198.7,1320,Houston,3
+1077,Karen,Ruiz,Operations,Logistics Coordinator,2015-07-18,69537.84,1648,Houston,3
+1078,Daniel,Bowen,Marketing,Content Specialist,2017-09-22,148605.57,1238,New York,3
+1079,Jeffrey,James,Engineering,DevOps Engineer,2021-08-20,99051.87,1025,Boston,3
+1080,Autumn,Vasquez,Sales,Sales Executive,2020-10-07,70397.54,1109,New York,4
+1081,Eric,Smith,Support,Support Engineer,2015-09-27,63499.28,1165,Los Angeles,3
+1082,Pamela,West,Engineering,QA Engineer,2023-01-19,87370.82,1128,Los Angeles,2
+1083,Christina,Kerr,Operations,Logistics Coordinator,2023-09-26,67987.15,1560,Seattle,5
+1084,William,Clark,Marketing,Marketing Manager,2016-08-31,101294.14,1513,San Francisco,1
+1085,Katherine,Parker,Finance,Accountant,2020-06-29,134978.14,1381,Los Angeles,2
+1086,Debra,Martinez,Marketing,Content Specialist,2022-07-21,100536.7,1150,San Francisco,3
+1087,Barbara,Jacobson,Engineering,Software Engineer,2016-07-13,52669.91,1193,Los Angeles,4
+1088,Sharon,Day,Engineering,QA Engineer,2020-02-26,135564.3,1416,Houston,1
+1089,Bethany,Pitts,Support,Customer Success Manager,2018-11-25,109563.69,1049,New York,2
+1090,Justin,Werner,Support,Customer Success Manager,2024-02-18,125747.83,1272,Houston,4
+1091,Michael,Johnson,Support,Customer Success Manager,2020-03-05,79511.87,1526,Boston,3
+1092,Harold,Bass,HR,HR Specialist,2017-10-31,50895.73,1287,Los Angeles,2
+1093,Priscilla,Davis,Engineering,Software Engineer,2024-03-27,143799.34,1654,New York,4
+1094,Kenneth,Porter,Support,Customer Success Manager,2019-10-01,62776.64,1195,San Francisco,3
+1095,Michael,Rodriguez,Support,Support Engineer,2016-05-28,81473.72,1111,New York,1
+1096,Sherry,Clark,Support,Support Engineer,2017-02-14,113743.91,1576,Boston,4
+1097,Diane,Barr,Sales,Sales Executive,2024-11-28,128147.86,1277,San Francisco,4
+1098,Savannah,Carrillo,Finance,Financial Analyst,2017-09-05,143134.72,1535,Houston,3
+1099,Monica,Rodriguez,HR,HR Specialist,2019-05-11,110649.15,1223,Houston,1
+1100,Kerri,Shaffer,Sales,Account Manager,2016-01-09,126413.31,1513,Los Angeles,3
+1101,Wendy,Fitzgerald,Engineering,Data Engineer,2022-09-19,88592.63,1337,Houston,3
+1102,Brent,Roberts,HR,HR Specialist,2018-12-05,74365.08,1468,San Francisco,3
+1103,James,Miller,Engineering,QA Engineer,2021-02-26,100389.39,1311,Boston,2
+1104,Paula,White,Operations,Logistics Coordinator,2016-11-12,79701.55,1527,San Francisco,3
+1105,Jeffery,Brown,Operations,Operations Manager,2023-12-17,67802.81,1154,Chicago,2
+1106,Anna,Boyd,Engineering,Data Engineer,2015-11-08,132044.68,1467,Boston,5
+1107,Nicholas,Mccoy,Operations,Logistics Coordinator,2020-07-05,78688.69,1416,Houston,5
+1108,Heather,Morris,Finance,Finance Manager,2024-04-01,92390.69,1472,Chicago,5
+1109,David,Alvarez,Support,Customer Success Manager,2018-06-18,53759.5,1555,Boston,2
+1110,Bob,Castro,Sales,Sales Executive,2017-08-12,97528.91,1223,Houston,2
+1111,James,Lin,Sales,Sales Executive,2017-02-12,86357.37,1528,Los Angeles,1
+1112,John,Keller,Support,Support Engineer,2015-11-14,91878.94,1607,New York,1
+1113,Tracy,Allen,Marketing,Content Specialist,2020-12-02,135021.46,1024,Seattle,4
+1114,Beth,Miller,Finance,Finance Manager,2016-07-29,129270.11,1017,Boston,1
+1115,Brian,Martin,Marketing,Content Specialist,2022-03-01,90285.08,1395,Chicago,2
+1116,Tasha,Daniel,Sales,Sales Executive,2019-05-13,88141.46,1192,Seattle,3
+1117,Sherri,Pearson,Support,Support Engineer,2024-06-02,134239.09,1601,Seattle,1
+1118,Sheri,Reyes,Marketing,SEO Specialist,2022-05-18,115034.12,1352,Seattle,3
+1119,Mallory,Rose,Operations,Operations Manager,2015-01-14,61758.58,1559,New York,5
+1120,Kayla,Combs,HR,HR Specialist,2021-06-29,96310.61,1462,Chicago,4
+1121,Alejandro,Carter,Support,Customer Success Manager,2017-04-10,80862.01,1514,San Francisco,4
+1122,Jenny,Guerrero,Marketing,Content Specialist,2020-02-27,116648.39,1121,Chicago,1
+1123,Patrick,Miller,Marketing,SEO Specialist,2017-08-30,51779.83,1339,Chicago,4
+1124,Amanda,Acosta,Operations,Logistics Coordinator,2017-04-13,148188.44,1194,San Francisco,5
+1125,Timothy,Torres,Engineering,Data Engineer,2024-12-14,147276.44,1395,New York,2
+1126,John,Lee,Marketing,Content Specialist,2024-06-08,59419.61,1489,Seattle,1
+1127,Hunter,Guerra,Finance,Financial Analyst,2017-05-05,120364.15,1328,New York,5
+1128,Stephanie,Smith,HR,Recruiter,2021-07-06,113650.23,1363,Houston,5
+1129,Thomas,Ross,Finance,Finance Manager,2019-08-16,137626.03,1455,New York,2
+1130,Cassidy,Smith,HR,Recruiter,2020-07-27,91446.84,1374,Boston,3
+1131,Elizabeth,Garcia,Marketing,Content Specialist,2016-08-31,145138.24,1619,New York,5
+1132,Jonathan,Davis,Support,Customer Success Manager,2016-04-30,128750.21,1323,Houston,3
+1133,Sean,Williams,Engineering,QA Engineer,2017-07-15,105230.08,1561,New York,5
+1134,Ricardo,Franklin,Sales,Sales Executive,2018-07-08,126365.29,1224,Boston,5
+1135,Anne,Perez,Support,Customer Success Manager,2020-12-11,63099.62,1557,Chicago,4
+1136,Caitlin,Cobb,Marketing,SEO Specialist,2020-10-03,81487.01,1414,New York,1
+1137,Erica,Brooks,HR,HR Specialist,2015-07-05,60640.88,1472,Chicago,4
+1138,Chad,Guerra,HR,HR Specialist,2016-10-25,115946.92,1008,Houston,5
+1139,James,Hall,Finance,Finance Manager,2024-08-12,143573.08,1667,Boston,1
+1140,Sandy,Thompson,Marketing,Content Specialist,2016-08-08,57355.53,1593,Boston,3
+1141,Eric,Ryan,Operations,Logistics Coordinator,2023-06-23,52200.99,1485,Seattle,1
+1142,Jon,Baker,Engineering,Software Engineer,2019-10-15,109690.74,1453,San Francisco,5
+1143,Kimberly,Brown,Finance,Accountant,2016-10-18,53183.91,1578,New York,2
+1144,Rebecca,Simmons,Operations,Operations Manager,2019-10-07,53405.65,1401,New York,1
+1145,Rachel,Wood,Engineering,Software Engineer,2020-12-16,61208.45,1304,Boston,4
+1146,Jason,Small,Operations,Operations Manager,2015-04-19,88848.9,1465,New York,1
+1147,Darlene,Walker,Marketing,SEO Specialist,2018-04-05,135528.21,1251,Houston,5
+1148,Nathan,Norton,Engineering,Data Engineer,2024-01-18,87023.94,1380,New York,2
+1149,Stacey,Jenkins,Marketing,Marketing Manager,2023-07-14,54837.77,1150,New York,5
+1150,Wanda,Kramer,Finance,Accountant,2019-08-26,107442.65,1555,Seattle,2
+1151,Jennifer,Ward,Engineering,QA Engineer,2015-08-22,116071.96,1030,Boston,2
+1152,Laura,Perez,Support,Support Engineer,2021-01-02,131994.44,1024,Houston,2
+1153,Alexandra,Patrick,Support,Customer Success Manager,2023-03-06,96771.98,1553,Boston,4
+1154,Robert,Scott,Marketing,Content Specialist,2017-06-24,111567.7,1695,Houston,4
+1155,Bradley,Smith,Operations,Logistics Coordinator,2020-12-28,80340.22,1368,Seattle,3
+1156,Lisa,Marquez,Engineering,Software Engineer,2018-08-27,92449.01,1698,Seattle,5
+1157,Jessica,Black,Marketing,SEO Specialist,2023-06-13,127333.05,1316,Seattle,5
+1158,Ian,Whitaker,Support,Support Engineer,2020-12-06,129054.43,1251,San Francisco,3
+1159,Jason,Morales,Operations,Logistics Coordinator,2019-11-27,143204.98,1010,Seattle,4
+1160,Cameron,Potter,Engineering,QA Engineer,2018-10-14,97032.28,1043,Seattle,5
+1161,William,Barker,Finance,Finance Manager,2020-12-27,107265.49,1577,Houston,1
+1162,Felicia,Potts,Finance,Financial Analyst,2020-08-28,55838.1,1260,San Francisco,1
+1163,Diana,Smith,Operations,Logistics Coordinator,2015-12-26,141046.33,1142,San Francisco,5
+1164,Charles,Torres,Engineering,DevOps Engineer,2023-08-06,136038.9,1024,Seattle,3
+1165,Kristin,Lewis,Sales,Account Manager,2020-05-23,89620.42,1654,Los Angeles,3
+1166,Mike,Ortiz,Finance,Accountant,2022-11-18,128881.56,1387,San Francisco,4
+1167,Marilyn,Nelson,Support,Customer Success Manager,2019-04-19,144716.96,1415,Boston,1
+1168,Marie,Ramirez,Sales,Account Manager,2021-03-11,62415.04,1340,Los Angeles,1
+1169,Janice,Ellis,Engineering,DevOps Engineer,2022-11-11,127862.83,1073,Boston,4
+1170,Jessica,Long,Operations,Operations Manager,2016-03-05,133586.1,1627,Seattle,2
+1171,Tiffany,Vega,Support,Support Engineer,2016-03-09,134604.77,1616,Chicago,1
+1172,Rebecca,Smith,Finance,Accountant,2023-04-16,118974.6,1350,Chicago,1
+1173,Elizabeth,Williams,HR,HR Specialist,2019-02-13,112566.77,1186,Chicago,5
+1174,Heather,Bush,HR,Recruiter,2022-09-02,50170.43,1138,Boston,4
+1175,Laura,Lopez,Support,Customer Success Manager,2023-12-18,147502.78,1158,Houston,1
+1176,Jonathan,Diaz,Finance,Finance Manager,2022-03-24,83495.35,1048,Seattle,4
+1177,Isaac,Miller,Support,Customer Success Manager,2024-09-27,97517.85,1286,New York,4
+1178,Erica,Cortez,Engineering,Data Engineer,2020-10-04,115108.27,1004,Boston,4
+1179,Clayton,Bentley,Operations,Logistics Coordinator,2024-09-27,123926.56,1273,Los Angeles,4
+1180,Jaime,Heath,Sales,Sales Executive,2015-11-06,148650.55,1632,Boston,1
+1181,Janet,Jones,Support,Support Engineer,2017-04-16,73125.1,1307,Los Angeles,5
+1182,William,Jacobs,Support,Support Engineer,2016-12-24,69675.56,1385,Seattle,4
+1183,Samuel,Davis,Operations,Operations Manager,2019-12-09,136705.56,1510,Los Angeles,2
+1184,Victoria,Porter,Operations,Logistics Coordinator,2022-08-26,133852.29,1239,Chicago,5
+1185,Courtney,Norris,Sales,Sales Executive,2018-01-13,105885.26,1557,New York,4
+1186,Anna,Kelly,Support,Support Engineer,2021-11-02,105374.19,1153,Chicago,2
+1187,Curtis,Martin,Operations,Logistics Coordinator,2015-01-01,71513.22,1342,San Francisco,5
+1188,Christopher,Salazar,HR,HR Specialist,2016-06-30,81781.29,1255,Seattle,3
+1189,Cindy,Cole,Finance,Accountant,2018-03-20,103707.06,1122,Boston,5
+1190,Jessica,Scott,Operations,Logistics Coordinator,2017-04-14,104958.07,1331,San Francisco,2
+1191,Jose,Cruz,Finance,Financial Analyst,2017-09-29,121780.27,1263,Chicago,1
+1192,Nathaniel,Smith,Engineering,Data Engineer,2017-05-13,144484.98,1102,New York,4
+1193,Bonnie,Riddle,Marketing,Content Specialist,2018-05-27,122964.04,1302,Chicago,4
+1194,Ronald,Watson,Support,Customer Success Manager,2016-08-29,85909.09,1091,Houston,5
+1195,Allison,Williams,Engineering,QA Engineer,2020-01-06,81648.89,1646,Boston,2
+1196,Cassandra,Stark,HR,Recruiter,2024-04-18,124109.15,1043,New York,4
+1197,Rebecca,Rodriguez,HR,Recruiter,2017-11-24,88730.21,1615,Chicago,5
+1198,Paula,Rodriguez,Sales,Sales Executive,2016-09-24,130185.1,1601,Houston,2
+1199,Sandra,Johnson,Support,Support Engineer,2016-09-27,96923.73,1198,Seattle,4
+1200,Veronica,Campbell,Finance,Finance Manager,2022-12-09,77597.12,1629,San Francisco,2
+1201,Larry,Sloan,Finance,Accountant,2020-10-31,92576.68,1450,New York,3
+1202,William,Bryant,HR,Recruiter,2021-04-11,149112.89,1051,Boston,1
+1203,Michelle,Clark,Engineering,Data Engineer,2022-04-08,59070.75,1080,Chicago,3
+1204,Shelley,Irwin,Sales,Account Manager,2016-05-27,82272.22,1210,Chicago,2
+1205,Edward,Wiggins,Finance,Finance Manager,2023-11-03,128791.23,1257,New York,2
+1206,Katherine,Greene,Support,Customer Success Manager,2023-05-21,73226.77,1120,Houston,5
+1207,Deborah,Garcia,Operations,Logistics Coordinator,2021-10-25,66825.23,1601,San Francisco,1
+1208,Kimberly,Lin,HR,HR Specialist,2018-05-17,53709.79,1618,Los Angeles,1
+1209,Nancy,Smith,Operations,Logistics Coordinator,2023-09-21,63740.23,1543,Los Angeles,1
+1210,Cassidy,Herrera,Finance,Accountant,2021-10-20,94963.78,1189,Houston,3
+1211,Regina,Salinas,Operations,Logistics Coordinator,2023-07-03,143092.43,1177,New York,1
+1212,Leah,Nunez,Sales,Account Manager,2023-04-01,123192.26,1598,San Francisco,2
+1213,Erika,Fox,Engineering,Data Engineer,2016-06-24,142049.74,1083,New York,3
+1214,Robert,Mitchell,Operations,Operations Manager,2022-07-03,80683.76,1034,San Francisco,1
+1215,Penny,Barnes,Operations,Operations Manager,2018-09-19,126945.78,1236,Seattle,5
+1216,Jasmine,Williams,Support,Support Engineer,2016-07-18,107163.28,1452,Houston,4
+1217,Linda,Kennedy,Finance,Finance Manager,2018-02-20,138091.39,1206,New York,4
+1218,John,Palmer,Operations,Operations Manager,2017-08-12,144609.64,1610,Boston,4
+1219,Bradley,Moore,Engineering,Data Engineer,2020-04-15,50300.88,1164,Boston,1
+1220,Eric,Maynard,Finance,Accountant,2023-03-24,97907.07,1084,Boston,2
+1221,Eric,Orr,Engineering,Software Engineer,2021-06-04,95739.37,1266,San Francisco,4
+1222,Kimberly,Hatfield,Operations,Logistics Coordinator,2019-06-10,103986.08,1384,Houston,4
+1223,Kristina,Garcia,HR,Recruiter,2022-05-20,132780.13,1062,Seattle,2
+1224,Colin,Arroyo,Sales,Sales Executive,2015-09-12,129135.73,1223,Houston,2
+1225,Gabrielle,Winters,Marketing,SEO Specialist,2021-04-11,66435.76,1199,San Francisco,2
+1226,Michael,Lee,Marketing,SEO Specialist,2020-10-11,71011.08,1658,Houston,2
+1227,Pamela,Martinez,Sales,Account Manager,2024-09-27,76424.24,1546,Los Angeles,1
+1228,Courtney,Hodge,Marketing,Content Specialist,2023-06-27,96197.99,1466,Chicago,3
+1229,Monica,Greene,Operations,Operations Manager,2020-12-16,108045.59,1619,New York,2
+1230,James,Pierce,Engineering,QA Engineer,2016-04-03,144084.65,1110,San Francisco,5
+1231,Emily,Gillespie,HR,Recruiter,2021-05-24,109886.14,1358,New York,4
+1232,Eric,Jordan,Engineering,DevOps Engineer,2022-01-25,92199.37,1039,Boston,5
+1233,Elizabeth,Carr,Sales,Account Manager,2019-09-01,68337.95,1323,Seattle,3
+1234,Jennifer,Carter,Operations,Logistics Coordinator,2015-03-21,114368.72,1485,Chicago,3
+1235,Derek,Tate,Support,Support Engineer,2021-02-01,75629.89,1474,San Francisco,1
+1236,Wendy,Ingram,HR,HR Specialist,2016-06-13,110249.27,1134,Seattle,4
+1237,Gabriel,Cook,Finance,Financial Analyst,2020-03-08,102414.81,1054,Chicago,3
+1238,Jerry,Knight,Sales,Account Manager,2015-11-14,132844.33,1576,Chicago,4
+1239,Joseph,Gordon,Finance,Accountant,2023-03-12,122525.08,1647,New York,1
+1240,Nicole,Carter,HR,Recruiter,2019-10-27,87774.04,1326,Houston,4
+1241,Andrea,Weaver,Engineering,QA Engineer,2021-08-12,144120.31,1271,Chicago,2
+1242,Julie,Coleman,Marketing,Content Specialist,2020-09-22,77936.09,1667,Seattle,3
+1243,Amy,Perez,Engineering,Data Engineer,2023-09-06,130707.06,1126,Los Angeles,5
+1244,Anthony,Green,Sales,Sales Executive,2018-12-26,116099.09,1437,New York,1
+1245,Joshua,Rodriguez,HR,HR Specialist,2021-08-29,74719.34,1422,Seattle,2
+1246,Travis,Kennedy,Marketing,Content Specialist,2019-03-08,103868.86,1172,San Francisco,3
+1247,Michael,Farley,Marketing,SEO Specialist,2016-10-15,80743.38,1112,Chicago,2
+1248,John,Molina,Marketing,SEO Specialist,2022-01-25,138073.78,1506,New York,5
+1249,Roberto,Nguyen,HR,HR Specialist,2023-09-30,131351.08,1380,Boston,1
+1250,Bobby,Wood,Finance,Finance Manager,2021-10-07,82197.64,1184,Los Angeles,5
+1251,John,Moss,Marketing,Marketing Manager,2019-05-08,113402.01,1423,New York,1
+1252,Michael,Hernandez,Finance,Accountant,2021-04-18,78527.64,1518,Boston,2
+1253,Karl,Brewer,Engineering,Software Engineer,2019-03-21,112808.15,1035,Seattle,1
+1254,Emily,Ross,Engineering,QA Engineer,2024-11-12,89458.51,1425,San Francisco,3
+1255,Joseph,Williams,Marketing,Marketing Manager,2021-04-28,127136.15,1229,San Francisco,1
+1256,Timothy,Juarez,Finance,Accountant,2020-03-03,121944.02,1446,Houston,2
+1257,Stacey,Rodriguez,Support,Support Engineer,2022-11-17,110426.36,1132,Seattle,3
+1258,Kimberly,Morrison,Support,Customer Success Manager,2015-10-31,87249.31,1554,San Francisco,4
+1259,Manuel,Stewart,Sales,Account Manager,2018-11-13,107832.86,1629,Chicago,1
+1260,Ryan,Haney,Support,Customer Success Manager,2021-09-08,56306.31,1055,Houston,5
+1261,Nicole,Brady,Support,Customer Success Manager,2018-08-20,148288.74,1009,Seattle,1
+1262,Victor,Warren,Finance,Finance Manager,2024-03-21,81026.71,1062,Chicago,5
+1263,Juan,Haynes,Operations,Operations Manager,2021-08-03,81828.92,1224,San Francisco,5
+1264,Steven,Ortiz,Engineering,Software Engineer,2021-01-12,74460.93,1345,San Francisco,5
+1265,Joseph,Ryan,Marketing,Marketing Manager,2020-08-19,73519.39,1241,New York,5
+1266,Abigail,Taylor,Engineering,Data Engineer,2018-11-02,107103.78,1506,Boston,4
+1267,Kristy,Randolph,Sales,Account Manager,2018-02-25,72748.48,1621,Los Angeles,2
+1268,Tammy,Johnson,Support,Support Engineer,2023-08-30,62855.24,1038,Seattle,3
+1269,Victor,Khan,HR,Recruiter,2018-09-30,141290.32,1448,Houston,3
+1270,Matthew,Payne,HR,Recruiter,2015-03-16,107592.18,1487,Los Angeles,2
+1271,Jasmine,Duncan,HR,Recruiter,2021-03-27,70193.06,1283,Chicago,1
+1272,Andrew,Wang,Finance,Financial Analyst,2017-04-01,113034.52,1226,San Francisco,1
+1273,Bill,Turner,Operations,Operations Manager,2018-06-24,93562.44,1593,Boston,2
+1274,Timothy,Livingston,Finance,Finance Manager,2023-10-06,113811.71,1092,Chicago,3
+1275,Tom,Wilcox,Engineering,QA Engineer,2015-09-29,57302.56,1604,Chicago,3
+1276,Brenda,Guerra,Engineering,QA Engineer,2024-10-01,100950.74,1153,Chicago,5
+1277,Michael,Lucas,Sales,Sales Executive,2023-07-31,85933.35,1036,Chicago,3
+1278,Kathy,Hernandez,Support,Customer Success Manager,2021-04-08,114503.34,1500,Boston,3
+1279,David,Skinner,HR,Recruiter,2018-07-20,110053.01,1222,San Francisco,4
+1280,Briana,Pham,Operations,Logistics Coordinator,2018-01-03,145681.5,1442,Boston,4
+1281,Andrea,Thomas,Finance,Accountant,2020-08-24,145364.84,1399,Boston,5
+1282,David,Marquez,Finance,Accountant,2019-03-14,96362.89,1153,Boston,2
+1283,Michelle,Vega,Engineering,Data Engineer,2024-01-15,51810.06,1567,Seattle,4
+1284,Sean,Mcgee,Finance,Financial Analyst,2018-02-09,79862.61,1572,Houston,4
+1285,Benjamin,Lewis,Sales,Sales Executive,2021-09-15,71180.59,1294,Boston,4
+1286,Mary,Johnson,Support,Support Engineer,2019-12-09,120478.19,1371,New York,1
+1287,Rebecca,Adams,Marketing,Content Specialist,2016-02-21,85253.33,1403,Chicago,3
+1288,Jessica,Baldwin,Support,Customer Success Manager,2020-12-02,99408.84,1089,Los Angeles,1
+1289,Patrick,Rose,Sales,Account Manager,2016-04-07,51554.07,1038,New York,4
+1290,Michelle,Diaz,HR,Recruiter,2023-01-06,133675.84,1131,San Francisco,4
+1291,Chad,Rodriguez,Support,Support Engineer,2023-01-05,83186.0,1430,Los Angeles,4
+1292,Mercedes,Nelson,Finance,Accountant,2020-02-06,68762.15,1130,San Francisco,3
+1293,Tara,Smith,HR,Recruiter,2024-07-19,106062.79,1239,Boston,2
+1294,Lawrence,Russell,Engineering,Software Engineer,2019-09-22,90486.37,1129,Los Angeles,5
+1295,Jane,Thompson,Finance,Finance Manager,2020-05-07,139188.42,1118,San Francisco,4
+1296,Timothy,Murray,Support,Customer Success Manager,2020-09-04,127282.62,1377,San Francisco,2
+1297,Tracy,Johns,Sales,Account Manager,2016-02-11,89664.12,1105,San Francisco,2
+1298,Kristy,Shea,Engineering,QA Engineer,2024-04-26,58761.71,1549,Los Angeles,2
+1299,Amanda,Washington,Engineering,Data Engineer,2015-08-23,82969.17,1548,Houston,4
+1300,Maria,Johnson,Support,Customer Success Manager,2017-09-16,134745.1,1694,Seattle,4
+1301,Chris,Garcia,Operations,Operations Manager,2024-08-06,75804.52,1570,San Francisco,3
+1302,Allen,Allen,Sales,Account Manager,2023-08-14,91036.47,1465,Los Angeles,5
+1303,Samantha,Lopez,Finance,Accountant,2019-07-25,98393.03,1161,New York,5
+1304,Christopher,Salazar,Sales,Sales Executive,2015-01-29,87650.83,1362,Seattle,4
+1305,Cody,Vasquez,Sales,Sales Executive,2017-10-16,132876.17,1298,Chicago,1
+1306,Dustin,Shelton,Support,Support Engineer,2022-05-06,90224.23,1379,Chicago,5
+1307,Sean,Townsend,Sales,Account Manager,2021-07-22,98537.03,1348,Boston,2
+1308,Daniel,Murphy,Marketing,Content Specialist,2023-08-09,52985.14,1436,San Francisco,1
+1309,Natasha,Robertson,Engineering,QA Engineer,2019-09-10,125263.51,1632,Seattle,1
+1310,Makayla,Harrison,Marketing,Marketing Manager,2024-05-25,119725.62,1323,New York,4
+1311,Justin,Dalton,Engineering,Data Engineer,2023-05-30,147441.56,1615,Seattle,1
+1312,Amanda,Gonzalez,Finance,Finance Manager,2018-03-31,136927.06,1036,Los Angeles,3
+1313,Jessica,Smith,Engineering,QA Engineer,2018-11-20,126759.08,1245,San Francisco,3
+1314,Evan,Macdonald,HR,HR Specialist,2018-03-11,134703.56,1095,Boston,3
+1315,Lauren,Gordon,Operations,Operations Manager,2021-10-20,50221.71,1125,Boston,4
+1316,Gilbert,Cole,Finance,Accountant,2015-04-24,148193.78,1477,San Francisco,3
+1317,Jennifer,Fleming,Sales,Sales Executive,2022-03-03,126843.38,1135,Los Angeles,2
+1318,Brian,Barnes,Operations,Logistics Coordinator,2015-04-10,93467.6,1544,Los Angeles,5
+1319,Heather,Jackson,Engineering,Software Engineer,2017-04-06,56704.29,1515,New York,1
+1320,Russell,May,Marketing,Content Specialist,2022-10-24,69351.38,1359,New York,5
+1321,Carol,Anthony,HR,Recruiter,2024-07-12,78778.1,1450,Chicago,3
+1322,Dawn,Robinson,HR,HR Specialist,2022-01-05,73766.66,1461,Seattle,2
+1323,Cheryl,Bradford,Operations,Logistics Coordinator,2015-04-12,112378.79,1698,New York,1
+1324,Peter,Hall,Finance,Finance Manager,2016-07-26,78128.79,1589,Los Angeles,2
+1325,Craig,Gonzalez,Sales,Sales Executive,2021-01-06,50486.49,1379,New York,1
+1326,Dennis,Patton,Finance,Financial Analyst,2023-05-29,125676.96,1016,Boston,3
+1327,Amy,Martin,HR,HR Specialist,2015-11-09,62544.13,1394,Los Angeles,4
+1328,Corey,Wright,Finance,Accountant,2016-07-01,145217.94,1514,San Francisco,2
+1329,Cheryl,Greene,HR,HR Specialist,2015-06-29,50575.85,1110,Seattle,1
+1330,Christopher,Green,Marketing,Content Specialist,2018-02-15,96682.28,1585,Chicago,1
+1331,Ashley,Hayes,Operations,Operations Manager,2016-09-13,115457.47,1194,Boston,3
+1332,Alice,Parker,HR,Recruiter,2015-03-29,110001.04,1605,Seattle,3
+1333,Christopher,Beck,Engineering,Data Engineer,2024-04-14,51390.4,1361,San Francisco,5
+1334,William,Strickland,Operations,Logistics Coordinator,2021-06-23,105243.07,1349,Houston,3
+1335,Stephanie,Nelson,Finance,Finance Manager,2017-03-23,71961.3,1609,Chicago,4
+1336,Eric,Knox,HR,HR Specialist,2022-07-20,107621.54,1166,Seattle,5
+1337,Steven,Mann,HR,HR Specialist,2023-10-20,125401.31,1700,San Francisco,1
+1338,Corey,Ellis,Operations,Operations Manager,2023-12-11,59521.51,1458,Houston,5
+1339,Laura,Smith,Finance,Accountant,2017-05-12,81146.72,1078,Boston,4
+1340,Kenneth,Mills,Operations,Logistics Coordinator,2024-05-03,130973.98,1630,Los Angeles,5
+1341,Jeffrey,Dixon,HR,HR Specialist,2015-11-28,92597.43,1227,Seattle,4
+1342,Alexis,Fritz,Support,Support Engineer,2016-04-12,148850.25,1625,Seattle,1
+1343,Stephen,Meyer,Engineering,Data Engineer,2021-08-09,129444.69,1564,Los Angeles,3
+1344,Paul,Sawyer,HR,HR Specialist,2015-09-18,114655.36,1648,Los Angeles,4
+1345,Sean,Luna,Engineering,DevOps Engineer,2016-06-18,121292.37,1591,Los Angeles,4
+1346,Robert,Green,Operations,Logistics Coordinator,2023-02-02,137276.49,1465,New York,2
+1347,Frank,Smith,HR,HR Specialist,2021-04-18,82842.25,1349,Los Angeles,4
+1348,Steven,Anderson,Marketing,SEO Specialist,2024-08-16,66549.5,1696,San Francisco,1
+1349,Virginia,Carter,HR,Recruiter,2017-05-17,146430.24,1143,Chicago,2
+1350,Jeffrey,Ford,Sales,Account Manager,2021-05-08,69873.24,1688,Chicago,4
+1351,Sharon,Huff,Engineering,DevOps Engineer,2019-05-04,119741.34,1457,Boston,4
+1352,Patrick,Johnson,Finance,Finance Manager,2016-04-05,60005.48,1268,Boston,4
+1353,Todd,Meyer,Engineering,DevOps Engineer,2017-10-22,67175.52,1050,Boston,4
+1354,Sara,Steele,Marketing,Marketing Manager,2022-06-20,83848.39,1348,Los Angeles,1
+1355,Benjamin,Garrett,HR,HR Specialist,2020-03-03,68040.72,1253,Chicago,2
+1356,Tamara,Lee,Support,Customer Success Manager,2021-02-03,77211.18,1544,Houston,4
+1357,John,Moore,Marketing,SEO Specialist,2018-05-24,145362.37,1200,Boston,3
+1358,Billy,Villarreal,Engineering,Software Engineer,2020-06-17,78883.17,1384,Boston,3
+1359,Nathaniel,Scott,Support,Support Engineer,2023-02-03,126491.51,1686,Houston,5
+1360,Todd,Carroll,Support,Support Engineer,2022-02-08,67249.28,1087,New York,3
+1361,Sara,Torres,Finance,Accountant,2020-11-20,68939.81,1512,Houston,2
+1362,Felicia,Allen,Engineering,DevOps Engineer,2016-02-24,135070.44,1303,Houston,4
+1363,Michael,Rivera,Finance,Accountant,2017-08-22,141829.56,1642,Seattle,4
+1364,Sarah,Bradshaw,Engineering,DevOps Engineer,2016-01-19,67287.59,1161,Los Angeles,5
+1365,Elizabeth,Mcpherson,HR,Recruiter,2022-11-07,88698.07,1686,Seattle,5
+1366,Christine,Williams,Marketing,SEO Specialist,2022-05-29,56737.97,1185,Seattle,3
+1367,Brandy,Edwards,Sales,Sales Executive,2018-04-22,62852.36,1411,Los Angeles,3
+1368,Philip,Rivera,Finance,Finance Manager,2017-06-22,108616.88,1068,New York,2
+1369,Joseph,Scott,Sales,Account Manager,2020-07-01,96304.95,1107,Boston,1
+1370,John,Swanson,Sales,Account Manager,2020-11-11,94815.58,1637,Seattle,2
+1371,Dale,Hunt,Support,Customer Success Manager,2021-09-23,67517.51,1192,Los Angeles,2
+1372,David,Thomas,Marketing,Content Specialist,2023-12-12,54034.77,1407,New York,3
+1373,Christian,Lopez,Finance,Accountant,2018-07-06,133776.65,1094,Los Angeles,3
+1374,Brandy,Cole,Sales,Account Manager,2017-12-13,143818.34,1273,Los Angeles,4
+1375,Scott,Bradley,HR,Recruiter,2016-05-17,58445.11,1168,New York,2
+1376,Karla,Boone,Support,Customer Success Manager,2023-08-08,69867.68,1279,Boston,5
+1377,Marie,Smith,Engineering,DevOps Engineer,2022-06-20,85004.64,1012,New York,4
+1378,Amanda,Johnson,Sales,Sales Executive,2018-02-21,95309.85,1029,Seattle,3
+1379,Tracy,Sanchez,Marketing,Marketing Manager,2019-04-26,85756.24,1294,San Francisco,4
+1380,Eric,Baker,Finance,Financial Analyst,2024-07-31,134197.73,1522,Houston,3
+1381,Eric,Thompson,Operations,Operations Manager,2019-06-20,95777.79,1044,New York,3
+1382,Carol,Wiley,Operations,Operations Manager,2015-01-25,59904.15,1163,Seattle,5
+1383,Dylan,Harrison,Engineering,Data Engineer,2022-07-17,55895.17,1440,San Francisco,2
+1384,David,Combs,Support,Support Engineer,2017-02-13,81672.0,1411,San Francisco,2
+1385,Sarah,Clayton,HR,HR Specialist,2016-08-24,79527.93,1459,Boston,5
+1386,Ronald,Flowers,Marketing,SEO Specialist,2016-07-23,147268.67,1237,Chicago,5
+1387,Cynthia,Lucas,Operations,Operations Manager,2021-11-29,51293.91,1068,Houston,2
+1388,Joseph,Ferrell,Finance,Finance Manager,2016-08-01,51067.88,1316,Chicago,2
+1389,Toni,Morrison,Engineering,DevOps Engineer,2021-04-05,55380.05,1678,Seattle,5
+1390,Kimberly,Torres,Support,Customer Success Manager,2019-09-03,127002.88,1457,Los Angeles,5
+1391,Charles,Everett,Finance,Financial Analyst,2018-12-29,104662.34,1011,San Francisco,3
+1392,Scott,Sloan,Support,Customer Success Manager,2017-12-06,97887.75,1700,Los Angeles,3
+1393,Andrea,Mcmillan,Support,Support Engineer,2023-10-10,55151.16,1199,Los Angeles,2
+1394,Heather,Kemp,Engineering,Software Engineer,2017-05-21,132597.15,1057,New York,4
+1395,Laura,Hernandez,Sales,Sales Executive,2016-01-16,52447.0,1568,Seattle,5
+1396,John,Martinez,Finance,Accountant,2016-04-02,89737.73,1511,Los Angeles,1
+1397,Danielle,Calderon,HR,HR Specialist,2017-09-16,144636.24,1472,Los Angeles,5
+1398,Mason,Stuart,Support,Support Engineer,2017-03-06,58550.06,1354,Los Angeles,5
+1399,Wendy,Mullen,Marketing,Marketing Manager,2020-01-22,83286.09,1250,Chicago,4
+1400,Christopher,Daniel,Support,Customer Success Manager,2023-06-05,149293.97,1080,San Francisco,2
+1401,Joseph,Wright,Support,Customer Success Manager,2022-06-21,74336.67,1183,New York,5
+1402,Stephanie,Lee,Finance,Finance Manager,2017-02-17,60705.42,1333,Houston,2
+1403,Scott,Humphrey,Operations,Logistics Coordinator,2024-10-03,94633.32,1346,Los Angeles,2
+1404,Tammie,Merritt,HR,HR Specialist,2016-10-29,116615.79,1545,Seattle,1
+1405,John,Hall,Marketing,Marketing Manager,2020-03-29,132550.72,1695,Los Angeles,5
+1406,Manuel,Lopez,Support,Customer Success Manager,2022-10-22,62218.72,1401,Seattle,4
+1407,Lauren,Thompson,Support,Support Engineer,2022-11-08,94261.0,1313,Los Angeles,3
+1408,Jennifer,Branch,Engineering,DevOps Engineer,2015-12-28,106490.39,1508,New York,1
+1409,Wendy,Lee,Finance,Accountant,2018-11-22,94652.68,1515,Chicago,3
+1410,Kevin,Acosta,Marketing,Marketing Manager,2015-06-22,78632.22,1657,Seattle,4
+1411,Adam,Santana,Sales,Account Manager,2015-07-04,148893.49,1142,Los Angeles,2
+1412,Ashley,Gutierrez,Support,Customer Success Manager,2018-08-05,134641.92,1656,Chicago,4
+1413,Dale,Ruiz,Sales,Account Manager,2016-06-22,128025.12,1592,Chicago,3
+1414,David,Mills,Operations,Logistics Coordinator,2017-01-30,124892.88,1568,Seattle,4
+1415,Nicole,Robinson,Marketing,Marketing Manager,2017-12-21,89897.11,1248,Los Angeles,3
+1416,Patricia,Chan,HR,HR Specialist,2018-12-25,134945.19,1258,Chicago,5
+1417,Anthony,Martinez,HR,HR Specialist,2021-06-25,58461.2,1347,New York,1
+1418,Steven,Harrison,Operations,Logistics Coordinator,2024-05-16,95807.88,1237,Houston,2
+1419,Norman,Ho,Engineering,DevOps Engineer,2017-05-24,118391.16,1353,Los Angeles,3
+1420,Jillian,Stone,Marketing,SEO Specialist,2017-12-30,144653.93,1029,Seattle,1
+1421,Robert,Cole,Marketing,SEO Specialist,2022-04-14,105773.77,1480,Boston,2
+1422,Savannah,Nguyen,Operations,Operations Manager,2022-03-12,110773.68,1394,New York,2
+1423,Michael,Cabrera,Support,Customer Success Manager,2022-04-25,130186.67,1466,Houston,3
+1424,James,Martin,Finance,Finance Manager,2021-07-27,94813.85,1597,Houston,1
+1425,Kathleen,Anderson,HR,Recruiter,2017-09-27,123665.58,1647,New York,2
+1426,Joel,Thomas,HR,Recruiter,2020-05-02,112694.51,1436,New York,3
+1427,Jason,Rivera,Engineering,QA Engineer,2021-04-11,127618.5,1453,Chicago,5
+1428,Steven,Mccormick,Finance,Financial Analyst,2016-06-13,100694.54,1020,Chicago,3
+1429,David,Livingston,Support,Support Engineer,2015-06-09,103892.66,1399,Chicago,1
+1430,Manuel,Adams,Sales,Sales Executive,2016-08-09,57043.74,1110,Seattle,1
+1431,Rickey,Huber,HR,HR Specialist,2022-10-28,91603.02,1443,Houston,5
+1432,Christopher,Ross,Engineering,QA Engineer,2016-01-16,127021.37,1034,New York,2
+1433,Rebecca,Kramer,Engineering,Data Engineer,2019-05-04,135465.16,1432,Houston,5
+1434,Kelli,Matthews,Marketing,SEO Specialist,2017-12-10,111823.32,1035,Boston,3
+1435,Hannah,Cook,HR,Recruiter,2017-03-08,58832.17,1573,San Francisco,3
+1436,Seth,Ramos,Sales,Account Manager,2021-11-03,95757.7,1258,Boston,3
+1437,Michael,Sullivan,Engineering,DevOps Engineer,2022-11-01,84290.51,1028,Chicago,3
+1438,Ashley,Marshall,Sales,Sales Executive,2022-03-18,75878.96,1440,Houston,2
+1439,Joshua,Lara,Marketing,Content Specialist,2021-09-18,74060.1,1636,Los Angeles,5
+1440,Phillip,Schneider,Marketing,Content Specialist,2016-01-17,89104.43,1569,Houston,4
+1441,Linda,Lee,HR,HR Specialist,2020-03-28,104657.23,1169,Boston,2
+1442,Natalie,Hansen,Operations,Operations Manager,2024-10-15,54658.57,1647,Chicago,4
+1443,Dana,Mitchell,Operations,Operations Manager,2023-06-21,135508.46,1617,Boston,3
+1444,Daniel,Ortiz,HR,Recruiter,2015-03-06,71366.45,1320,Los Angeles,1
+1445,Jesse,Riggs,Support,Customer Success Manager,2016-01-09,103689.05,1271,Boston,3
+1446,Daniel,Medina,Support,Customer Success Manager,2017-06-18,116645.28,1524,San Francisco,1
+1447,Alexander,Briggs,Marketing,SEO Specialist,2024-10-10,84685.48,1674,Los Angeles,1
+1448,Nicholas,Davis,Engineering,Software Engineer,2023-05-11,114912.58,1574,Seattle,2
+1449,Brian,Padilla,Marketing,Content Specialist,2016-09-04,129026.29,1152,New York,3
+1450,Adam,Daniels,Engineering,DevOps Engineer,2023-07-18,102880.19,1014,Los Angeles,4
+1451,Sean,Le,Marketing,Marketing Manager,2019-09-05,99167.8,1413,Boston,1
+1452,Steven,Cox,HR,HR Specialist,2015-03-18,59022.24,1635,San Francisco,4
+1453,Danielle,Mathis,Sales,Sales Executive,2015-02-14,85372.7,1518,San Francisco,4
+1454,David,Lam,Sales,Account Manager,2022-02-09,134594.27,1050,Houston,5
+1455,Daniel,Lewis,Marketing,Content Specialist,2023-02-09,53968.65,1205,New York,4
+1456,Brent,Haynes,Engineering,Software Engineer,2022-11-22,113221.8,1540,San Francisco,2
+1457,Jacob,Ferguson,Engineering,QA Engineer,2019-06-28,127514.99,1490,New York,4
+1458,David,Christensen,Sales,Account Manager,2015-06-08,139302.1,1435,Houston,5
+1459,Jonathan,Haley,Engineering,QA Engineer,2023-02-26,119240.93,1477,San Francisco,3
+1460,Michael,Logan,Operations,Operations Manager,2024-11-21,139837.92,1526,Seattle,5
+1461,Chad,Wilson,Marketing,Content Specialist,2019-04-17,114510.08,1046,Houston,5
+1462,Sandra,White,Sales,Account Manager,2017-05-18,59833.1,1235,Houston,1
+1463,Caleb,Whitney,Sales,Account Manager,2022-05-18,103279.52,1401,New York,1
+1464,Christopher,Parker,Marketing,Marketing Manager,2019-10-13,108227.49,1677,Houston,3
+1465,John,Diaz,Engineering,Data Engineer,2016-07-01,113689.61,1479,New York,4
+1466,Desiree,Henry,Marketing,Marketing Manager,2016-03-28,53733.96,1198,Boston,3
+1467,Cynthia,Mcgee,HR,HR Specialist,2016-01-31,106169.74,1387,Seattle,1
+1468,Kristina,Barnes,Sales,Sales Executive,2020-07-12,65155.03,1124,San Francisco,5
+1469,Jodi,Cline,Marketing,SEO Specialist,2021-06-08,64606.44,1385,New York,1
+1470,Hannah,Johnson,Engineering,Data Engineer,2018-01-18,81213.68,1128,Los Angeles,4
+1471,Robert,Johnson,Sales,Account Manager,2023-02-17,55113.47,1231,Boston,3
+1472,James,Webster,Finance,Finance Manager,2021-02-03,146044.68,1524,Chicago,4
+1473,Anne,Morris,Operations,Logistics Coordinator,2022-10-06,122197.71,1208,New York,5
+1474,Jessica,Hubbard,HR,HR Specialist,2022-08-05,146487.0,1613,Chicago,3
+1475,Nicholas,Cooper,HR,HR Specialist,2017-01-05,149205.56,1109,Houston,2
+1476,Kimberly,Mason,Support,Support Engineer,2016-03-28,129717.53,1253,Boston,4
+1477,Michelle,Perry,Finance,Finance Manager,2019-10-02,109153.12,1654,Los Angeles,3
+1478,Christian,Murphy,Support,Support Engineer,2015-06-15,116338.69,1218,Boston,3
+1479,Christopher,Jones,Sales,Sales Executive,2023-03-12,80118.52,1244,Seattle,3
+1480,Anna,Contreras,Marketing,Marketing Manager,2019-09-26,69087.8,1624,Los Angeles,1
+1481,Carlos,Lewis,Finance,Finance Manager,2023-04-30,102261.36,1579,Seattle,5
+1482,Matthew,Williams,Marketing,SEO Specialist,2023-12-14,86904.94,1488,San Francisco,5
+1483,John,Contreras,Marketing,SEO Specialist,2018-01-03,58012.68,1222,Chicago,5
+1484,Joseph,Gonzales,Sales,Account Manager,2024-01-01,104215.16,1277,San Francisco,4
+1485,Tanya,Bryant,Finance,Finance Manager,2018-03-25,142731.16,1272,Chicago,4
+1486,Tracy,Martinez,Marketing,SEO Specialist,2017-01-15,135433.07,1027,San Francisco,3
+1487,Samantha,Villegas,Finance,Finance Manager,2015-04-14,106667.27,1543,Houston,1
+1488,Claudia,Short,Finance,Finance Manager,2015-08-16,79147.34,1093,San Francisco,3
+1489,Brian,Mueller,Support,Support Engineer,2022-01-02,62640.43,1275,Seattle,3
+1490,Zachary,Brown,Support,Customer Success Manager,2015-11-30,68948.52,1049,Houston,1
+1491,Eric,Clark,Marketing,SEO Specialist,2024-05-20,97806.23,1477,New York,1
+1492,Andres,Brown,Finance,Financial Analyst,2021-02-15,106011.7,1100,Seattle,4
+1493,Jennifer,Weber,Finance,Finance Manager,2022-12-22,100426.52,1210,Los Angeles,3
+1494,Juan,Powell,Marketing,Content Specialist,2020-11-03,93596.23,1582,Houston,5
+1495,Jennifer,Pace,Marketing,Marketing Manager,2020-05-23,125681.45,1246,Chicago,4
+1496,Steven,Robinson,Operations,Operations Manager,2018-10-29,90038.19,1070,Chicago,5
+1497,Bradley,Brown,Support,Customer Success Manager,2017-10-24,82381.02,1087,New York,3
+1498,Angela,Hines,Finance,Accountant,2016-03-19,133423.88,1071,San Francisco,5
+1499,Victoria,Pruitt,Marketing,Marketing Manager,2018-04-26,126271.18,1613,Seattle,1
+1500,Kelly,Barber,Finance,Financial Analyst,2022-07-18,139954.29,1291,Seattle,1
+1501,Francisco,Gallagher,Engineering,DevOps Engineer,2022-12-27,78513.5,1408,Chicago,2
+1502,Sarah,Young,HR,HR Specialist,2023-02-15,75424.83,1318,Seattle,3
+1503,Steven,Green,HR,HR Specialist,2023-12-04,149577.53,1271,San Francisco,2
+1504,Gina,Poole,Engineering,DevOps Engineer,2021-05-15,76369.45,1412,Seattle,2
+1505,Jesse,Mercado,Sales,Sales Executive,2019-03-06,67034.76,1037,San Francisco,1
+1506,Jose,Williams,Engineering,QA Engineer,2018-12-18,52053.98,1293,Chicago,3
+1507,Lisa,Murphy,Engineering,DevOps Engineer,2021-03-14,51150.72,1076,New York,1
+1508,Ian,Shaw,Sales,Sales Executive,2019-06-17,67667.35,1326,Houston,4
+1509,Bryan,Johnson,HR,Recruiter,2016-04-24,50224.14,1360,Chicago,3
+1510,Tanya,Pittman,Marketing,SEO Specialist,2019-03-25,86002.91,1550,Seattle,4
+1511,Lisa,Williams,Marketing,Marketing Manager,2020-03-18,66432.42,1293,Chicago,5
+1512,Sarah,Allison,Engineering,Data Engineer,2021-12-11,149092.01,1022,San Francisco,2
+1513,Robert,Brown,HR,HR Specialist,2024-06-18,128045.78,1288,Seattle,4
+1514,Nathan,Wells,Support,Customer Success Manager,2023-03-16,66234.35,1239,Boston,2
+1515,Lance,Bentley,Finance,Accountant,2017-11-23,93975.22,1042,Los Angeles,5
+1516,Jessica,York,HR,Recruiter,2016-07-24,105623.82,1473,New York,2
+1517,Kristin,Hunter,HR,HR Specialist,2024-12-06,139775.4,1602,Los Angeles,3
+1518,Edgar,Nelson,Marketing,SEO Specialist,2015-09-21,116251.42,1694,New York,3
+1519,Joseph,Parker,Marketing,Marketing Manager,2022-02-20,98331.61,1048,New York,3
+1520,Melissa,Smith,Support,Support Engineer,2023-07-16,66023.42,1618,Chicago,5
+1521,Samantha,Martinez,Sales,Account Manager,2024-10-21,76505.66,1300,Houston,3
+1522,Madison,West,Marketing,Marketing Manager,2021-12-12,103461.75,1447,Los Angeles,4
+1523,Tara,Myers,Finance,Accountant,2023-07-08,140868.39,1165,Houston,2
+1524,Jessica,Cervantes,Support,Customer Success Manager,2017-07-16,84813.83,1075,Boston,2
+1525,Jesse,Clark,Support,Support Engineer,2017-09-19,137051.59,1085,Seattle,4
+1526,Barbara,Gilmore,Marketing,SEO Specialist,2016-08-28,87185.13,1238,Los Angeles,1
+1527,Maria,Humphrey,HR,HR Specialist,2015-06-10,141209.25,1179,Boston,1
+1528,Janet,Campbell,Support,Support Engineer,2018-10-08,134217.69,1374,Seattle,1
+1529,Wendy,Griffin,Sales,Account Manager,2021-10-26,96115.05,1065,Boston,5
+1530,Ronald,Fernandez,Marketing,SEO Specialist,2022-03-27,93375.18,1301,Houston,5
+1531,Carol,Kennedy,Finance,Financial Analyst,2018-08-16,149562.88,1633,Houston,5
+1532,Amy,Proctor,Sales,Account Manager,2024-06-03,142797.62,1081,Chicago,5
+1533,Adam,Johnson,HR,Recruiter,2020-11-15,87362.83,1396,Boston,4
+1534,Debra,Snyder,Operations,Logistics Coordinator,2024-07-06,136467.52,1506,New York,2
+1535,Tiffany,Thomas,Sales,Sales Executive,2019-01-17,97944.47,1305,Houston,5
+1536,Randy,Smith,Engineering,Software Engineer,2016-10-18,78199.0,1498,Seattle,5
+1537,David,Molina,Support,Support Engineer,2015-10-25,127965.84,1328,Los Angeles,4
+1538,Dalton,Bailey,Marketing,Marketing Manager,2020-12-17,81839.18,1223,Houston,4
+1539,Katrina,Stewart,Operations,Logistics Coordinator,2023-09-10,64011.96,1196,Houston,1
+1540,Monica,Miller,Marketing,Marketing Manager,2015-07-28,63696.96,1352,Los Angeles,1
+1541,Cory,Scott,Marketing,Marketing Manager,2018-07-17,136314.51,1229,Los Angeles,3
+1542,Stephen,Harding,Sales,Account Manager,2022-03-11,145472.19,1682,Chicago,5
+1543,Bryan,Barr,Support,Support Engineer,2022-03-22,97088.08,1605,Seattle,5
+1544,Norman,Brooks,Marketing,Marketing Manager,2016-12-27,59416.63,1134,Boston,1
+1545,Robert,Stewart,Marketing,Marketing Manager,2019-05-31,129933.35,1126,San Francisco,4
+1546,Jennifer,Cooper,Engineering,Software Engineer,2018-10-14,147472.62,1121,New York,2
+1547,John,White,Support,Customer Success Manager,2020-05-17,140116.23,1270,Seattle,2
+1548,Lisa,Klein,Support,Support Engineer,2022-12-02,142514.18,1259,Boston,4
+1549,Emily,Dennis,Operations,Logistics Coordinator,2015-08-16,54898.8,1368,Houston,2
+1550,Rebecca,Farrell,Finance,Financial Analyst,2018-08-08,129537.18,1428,Boston,5
+1551,Todd,Pena,HR,Recruiter,2021-10-14,84206.66,1616,Boston,2
+1552,Shane,Glenn,Operations,Logistics Coordinator,2022-02-22,131273.15,1283,Houston,2
+1553,David,Perry,Finance,Financial Analyst,2017-06-04,50259.85,1241,Boston,3
+1554,Anna,Fitzgerald,Finance,Finance Manager,2021-04-07,126983.74,1547,Boston,5
+1555,Michael,Mcintyre,Finance,Financial Analyst,2015-07-12,88244.49,1071,Chicago,4
+1556,Wendy,Gillespie,Sales,Account Manager,2018-11-07,59452.47,1011,San Francisco,2
+1557,Kristi,Everett,Marketing,Content Specialist,2021-10-09,136017.48,1171,San Francisco,4
+1558,Sydney,Brown,Sales,Account Manager,2020-10-02,112543.44,1324,Houston,2
+1559,James,Moore,Finance,Accountant,2020-04-18,54167.79,1269,Boston,1
+1560,James,Morrow,Engineering,Data Engineer,2022-01-23,90885.73,1043,Boston,1
+1561,Michelle,Moore,Finance,Financial Analyst,2019-07-10,99302.02,1162,Chicago,2
+1562,Joyce,Figueroa,Finance,Accountant,2015-12-06,147547.59,1102,Seattle,3
+1563,Terri,Rivers,Sales,Account Manager,2022-06-30,85968.44,1166,Boston,3
+1564,Rebecca,Blackwell,Engineering,DevOps Engineer,2023-03-17,148380.34,1367,Chicago,1
+1565,Brent,Simpson,Engineering,Software Engineer,2023-10-16,145884.89,1409,Chicago,1
+1566,Daniel,Holder,HR,HR Specialist,2016-04-22,95100.07,1664,Boston,5
+1567,Michelle,Robles,Support,Customer Success Manager,2020-08-28,81033.42,1035,San Francisco,4
+1568,Bobby,Wolfe,Finance,Accountant,2020-06-15,139210.48,1446,New York,1
+1569,Melissa,Young,HR,HR Specialist,2020-03-09,141392.16,1439,Seattle,3
+1570,Tonya,Moore,Finance,Financial Analyst,2020-05-17,128680.06,1488,New York,2
+1571,Sandy,Parker,Sales,Account Manager,2020-03-15,54168.72,1413,Los Angeles,2
+1572,David,Sullivan,Operations,Logistics Coordinator,2020-12-30,54735.22,1165,Seattle,3
+1573,Brian,Chavez,Sales,Account Manager,2017-07-07,106640.37,1617,Seattle,1
+1574,Lauren,Hobbs,HR,HR Specialist,2024-08-14,144044.46,1333,Boston,2
+1575,Robert,Graves,Engineering,DevOps Engineer,2024-10-24,87646.05,1115,Boston,2
+1576,Bethany,Fox,Support,Support Engineer,2016-03-22,94939.49,1344,San Francisco,2
+1577,Michele,Murphy,Marketing,SEO Specialist,2021-11-16,97605.29,1538,Seattle,3
+1578,Nicolas,Patrick,Finance,Finance Manager,2018-09-02,125820.19,1374,Houston,2
+1579,Luis,Allen,Operations,Logistics Coordinator,2019-10-14,101457.84,1588,San Francisco,3
+1580,Kevin,Armstrong,Finance,Financial Analyst,2021-09-27,117541.45,1664,San Francisco,3
+1581,Perry,Webb,Support,Customer Success Manager,2017-07-23,104818.63,1186,Boston,4
+1582,Veronica,Bennett,Engineering,Software Engineer,2018-01-07,109435.57,1658,Chicago,4
+1583,Amanda,Price,Marketing,SEO Specialist,2019-08-25,51493.07,1462,Houston,5
+1584,Lisa,Parker,Support,Support Engineer,2022-02-04,57380.16,1069,San Francisco,4
+1585,Sara,Lee,Finance,Financial Analyst,2023-02-25,84243.04,1488,Boston,3
+1586,Susan,Church,Support,Customer Success Manager,2022-10-07,82464.3,1681,Seattle,5
+1587,Gary,Thomas,HR,Recruiter,2024-03-21,78184.78,1342,Seattle,4
+1588,Angela,Brown,Engineering,Data Engineer,2022-02-04,136992.1,1293,Boston,4
+1589,Elizabeth,Jones,Support,Support Engineer,2023-01-30,115468.05,1009,New York,2
+1590,John,Rowland,Finance,Finance Manager,2024-02-20,128586.76,1390,Boston,2
+1591,Jason,Smith,Engineering,Software Engineer,2023-03-14,140005.62,1113,San Francisco,3
+1592,Cindy,Rice,Sales,Account Manager,2021-11-26,126863.24,1017,New York,5
+1593,Debra,Johnson,HR,HR Specialist,2016-12-22,55444.41,1254,Seattle,5
+1594,Denise,Edwards,Finance,Finance Manager,2023-12-18,65850.96,1490,Boston,5
+1595,Shannon,Sutton,Operations,Operations Manager,2017-07-02,69223.8,1433,Los Angeles,1
+1596,Kelly,Walker,Sales,Account Manager,2019-08-12,76656.36,1177,New York,5
+1597,Timothy,Nelson,HR,HR Specialist,2016-08-30,81371.98,1497,Seattle,4
+1598,James,Wise,Finance,Finance Manager,2021-02-10,77714.13,1598,Chicago,4
+1599,Shawna,Hernandez,Engineering,Data Engineer,2018-03-09,103343.21,1236,Los Angeles,4
+1600,Henry,Miller,HR,HR Specialist,2024-12-13,84856.65,1592,San Francisco,4
+1601,Christopher,Barber,Marketing,SEO Specialist,2024-09-11,138634.52,1160,New York,1
+1602,April,Harper,Operations,Operations Manager,2015-07-06,96653.09,1388,Seattle,2
+1603,Michael,Gentry,Support,Support Engineer,2021-10-22,95731.55,1040,Los Angeles,1
+1604,Kelsey,Anderson,Support,Support Engineer,2018-11-25,122485.02,1247,Boston,3
+1605,Debbie,Dennis,HR,HR Specialist,2020-07-23,95712.97,1311,Chicago,5
+1606,Stephanie,Ward,HR,Recruiter,2023-05-10,128438.85,1076,San Francisco,3
+1607,John,Melendez,Engineering,Data Engineer,2020-07-22,57471.53,1095,Chicago,3
+1608,Ryan,Santos,HR,HR Specialist,2021-06-30,110598.49,1362,Los Angeles,1
+1609,Crystal,Mosley,Engineering,DevOps Engineer,2015-06-12,146858.92,1058,New York,3
+1610,David,Hanson,Support,Support Engineer,2015-02-02,79030.14,1396,San Francisco,4
+1611,Amanda,Patterson,Operations,Logistics Coordinator,2023-07-09,126158.34,1155,Chicago,3
+1612,Catherine,Collins,Operations,Operations Manager,2023-12-16,75823.71,1298,Seattle,1
+1613,James,Shields,HR,HR Specialist,2021-02-18,135709.02,1205,Houston,1
+1614,Tracy,Moreno,Operations,Operations Manager,2018-03-25,78627.01,1295,Boston,1
+1615,Mark,Hughes,Operations,Logistics Coordinator,2024-02-12,128000.75,1228,New York,3
+1616,Chelsea,Thomas,Support,Customer Success Manager,2021-09-02,66354.43,1556,San Francisco,2
+1617,Jennifer,Jordan,Sales,Account Manager,2022-05-09,52452.95,1569,Houston,2
+1618,Ryan,Jordan,Marketing,Content Specialist,2020-03-10,125485.32,1018,Chicago,3
+1619,James,Allen,Engineering,Software Engineer,2024-05-01,138718.97,1069,Chicago,5
+1620,Caleb,Heath,Support,Customer Success Manager,2023-03-29,76401.59,1033,Seattle,1
+1621,Joseph,Martin,Operations,Operations Manager,2020-12-24,125775.53,1501,Seattle,3
+1622,Christian,Johnson,HR,HR Specialist,2018-11-20,86894.97,1619,Boston,3
+1623,Tara,Frost,HR,HR Specialist,2019-12-08,88985.6,1058,San Francisco,4
+1624,Samantha,Tyler,Sales,Sales Executive,2017-11-30,102543.22,1470,Houston,4
+1625,Scott,Braun,Operations,Logistics Coordinator,2016-07-12,68499.75,1383,Los Angeles,4
+1626,Stephanie,Blair,HR,HR Specialist,2019-12-31,136193.83,1030,Houston,4
+1627,Stephanie,Myers,Engineering,Data Engineer,2019-08-24,86396.41,1543,San Francisco,4
+1628,Mike,Lindsey,HR,Recruiter,2020-03-13,70772.03,1369,New York,5
+1629,Roy,Reese,Marketing,SEO Specialist,2015-04-17,92051.86,1126,Seattle,3
+1630,Joseph,Wagner,HR,Recruiter,2019-01-17,128874.84,1634,San Francisco,3
+1631,Jeanette,Owens,Marketing,SEO Specialist,2019-07-25,147085.5,1390,San Francisco,1
+1632,Curtis,Martinez,Operations,Logistics Coordinator,2021-05-08,74910.72,1489,San Francisco,4
+1633,Sara,Farley,Engineering,Software Engineer,2023-11-29,88138.37,1695,Seattle,4
+1634,Kelly,Montoya,Engineering,DevOps Engineer,2015-02-08,93802.95,1535,Houston,2
+1635,Sandra,Ellis,Sales,Sales Executive,2022-02-02,62797.27,1037,Los Angeles,2
+1636,Hayley,Hall,Support,Support Engineer,2015-05-12,84784.96,1512,San Francisco,4
+1637,Tammy,Sutton,Finance,Accountant,2017-12-19,88366.1,1457,Boston,2
+1638,Morgan,Mclaughlin,Finance,Finance Manager,2020-07-30,53601.99,1317,Houston,4
+1639,Victor,Villarreal,Marketing,Marketing Manager,2019-11-14,88278.43,1571,New York,1
+1640,Jesse,Stanley,HR,Recruiter,2018-05-19,118693.63,1546,Seattle,3
+1641,Pamela,Larson,Engineering,QA Engineer,2017-01-19,138260.02,1682,New York,1
+1642,Rodney,Stafford,Marketing,SEO Specialist,2021-01-08,104875.46,1296,Houston,2
+1643,James,Boyle,Marketing,Marketing Manager,2020-07-05,68337.72,1244,New York,4
+1644,Amy,Hernandez,Marketing,SEO Specialist,2021-10-29,142102.36,1448,New York,3
+1645,Jeffrey,Craig,HR,HR Specialist,2018-12-18,88531.29,1413,New York,5
+1646,Kevin,Colon,HR,Recruiter,2024-02-21,130654.47,1551,Boston,1
+1647,Jessica,Tyler,Marketing,Marketing Manager,2020-05-19,95520.78,1521,Boston,3
+1648,Douglas,Green,HR,HR Specialist,2022-05-11,145392.82,1478,Chicago,5
+1649,Jill,Palmer,Operations,Operations Manager,2023-03-28,123533.28,1235,Los Angeles,4
+1650,Andrew,Smith,Finance,Finance Manager,2022-11-25,94309.26,1001,Houston,2
+1651,Jared,Adams,HR,Recruiter,2023-03-16,69579.3,1614,Chicago,3
+1652,Brittany,Olson,Finance,Accountant,2019-11-16,121815.7,1556,Seattle,5
+1653,Jennifer,Carter,Operations,Logistics Coordinator,2018-07-11,116785.58,1605,Los Angeles,2
+1654,Amy,Gordon,Sales,Account Manager,2017-03-31,64290.95,1150,Houston,2
+1655,Curtis,Moreno,Sales,Account Manager,2016-02-05,54270.54,1624,Boston,3
+1656,Leah,Johnson,Support,Support Engineer,2023-06-03,88775.02,1312,Houston,5
+1657,Charles,Herrera,Marketing,SEO Specialist,2018-06-19,81883.29,1017,Los Angeles,4
+1658,Tammy,Miller,Sales,Sales Executive,2015-05-11,59976.78,1366,Chicago,3
+1659,Joshua,Griffin,Marketing,Marketing Manager,2015-10-12,143631.01,1458,Chicago,4
+1660,Heidi,Smith,HR,HR Specialist,2024-10-31,123916.65,1171,New York,2
+1661,Edward,Burke,Operations,Operations Manager,2017-07-20,97167.17,1174,Seattle,4
+1662,Douglas,Johnson,Support,Support Engineer,2020-02-19,121489.66,1286,Houston,4
+1663,Emily,Morris,Marketing,SEO Specialist,2017-10-20,109918.35,1573,Seattle,5
+1664,Kelly,Kim,HR,Recruiter,2018-04-26,137417.82,1489,Los Angeles,2
+1665,Jennifer,Harrison,HR,HR Specialist,2023-12-03,129299.42,1003,New York,5
+1666,Cheryl,Ruiz,HR,Recruiter,2018-02-24,92863.94,1056,Chicago,4
+1667,Jacqueline,Beltran,Operations,Operations Manager,2020-05-30,131903.67,1646,Seattle,2
+1668,Ronald,Edwards,Engineering,DevOps Engineer,2020-02-20,127555.72,1018,Boston,5
+1669,John,Stevens,Sales,Account Manager,2016-05-03,130750.08,1496,Boston,1
+1670,Amanda,Dalton,Sales,Sales Executive,2015-12-01,69694.28,1649,Houston,3
+1671,Alyssa,Garcia,Engineering,QA Engineer,2022-11-20,61332.7,1552,Boston,4
+1672,Cameron,Dawson,Operations,Logistics Coordinator,2021-11-11,90884.83,1266,Boston,5
+1673,Robert,Marshall,Support,Support Engineer,2023-06-17,71140.6,1092,Seattle,3
+1674,Garrett,Marsh,HR,HR Specialist,2021-01-12,88072.46,1063,Boston,1
+1675,Deborah,Flores,Marketing,SEO Specialist,2018-07-31,149456.33,1399,Chicago,5
+1676,Nicole,Howe,Operations,Operations Manager,2016-03-05,89520.9,1282,Boston,2
+1677,Mary,Mckinney,Finance,Financial Analyst,2018-05-07,112031.0,1671,Chicago,3
+1678,Brandon,Parker,Marketing,Marketing Manager,2015-05-28,76096.85,1329,Chicago,3
+1679,Randy,Owens,Engineering,Data Engineer,2017-01-14,85497.92,1337,Los Angeles,2
+1680,Joseph,Flores,Marketing,Content Specialist,2018-03-05,116097.6,1054,Seattle,4
+1681,Brian,Winters,Engineering,Software Engineer,2015-04-10,53031.65,1330,San Francisco,1
+1682,Christopher,Martinez,Marketing,Content Specialist,2019-08-15,61491.78,1640,New York,5
+1683,Isaac,Harrison,Engineering,Data Engineer,2019-01-03,133611.6,1438,Seattle,5
+1684,Charles,Middleton,Sales,Account Manager,2024-05-27,138844.56,1053,Chicago,2
+1685,Daisy,Foster,Marketing,Content Specialist,2021-06-08,57160.77,1643,Houston,5
+1686,Jessica,Wells,HR,Recruiter,2020-09-02,145660.66,1381,Houston,4
+1687,Sara,Moore,Marketing,SEO Specialist,2023-03-18,72294.79,1331,San Francisco,3
+1688,Melissa,Powell,Operations,Operations Manager,2022-09-17,106148.15,1391,New York,4
+1689,Stephanie,Martinez,Finance,Finance Manager,2016-10-21,83468.8,1545,Boston,2
+1690,Diane,Kirk,Finance,Finance Manager,2024-11-28,106454.52,1264,Boston,1
+1691,Joshua,Hernandez,Finance,Finance Manager,2024-04-22,147599.02,1017,Seattle,3
+1692,Jerry,Hines,Engineering,Data Engineer,2024-09-07,134887.48,1132,Seattle,3
+1693,Philip,Peterson,HR,HR Specialist,2024-07-16,89413.69,1654,Los Angeles,5
+1694,Madison,Brady,Marketing,Marketing Manager,2017-03-13,112455.88,1046,Houston,4
+1695,Travis,Elliott,Support,Support Engineer,2020-09-20,98722.6,1388,San Francisco,5
+1696,Mary,Jacobs,Engineering,DevOps Engineer,2015-07-27,126821.01,1232,Seattle,2
+1697,Kyle,Greer,Engineering,DevOps Engineer,2021-10-03,132463.58,1125,Seattle,5
+1698,Kathryn,Kelly,HR,HR Specialist,2015-10-14,144900.44,1326,Houston,4
+1699,Nicole,Rollins,Marketing,SEO Specialist,2019-08-04,54624.28,1069,San Francisco,1
+1700,Isaac,Williams,HR,HR Specialist,2015-12-13,147518.61,1472,Chicago,2
